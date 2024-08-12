@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\hienthicacloaihinh\bin\Debug\net7.0\hienthicacloaihinh.exe
+C:\Users\ASUS\Desktop\hienthicacloaihinh\bin\Debug\net7.0\hienthicacloaihinh.deps.json
+C:\Users\ASUS\Desktop\hienthicacloaihinh\bin\Debug\net7.0\hienthicacloaihinh.runtimeconfig.json
+C:\Users\ASUS\Desktop\hienthicacloaihinh\bin\Debug\net7.0\hienthicacloaihinh.dll
+C:\Users\ASUS\Desktop\hienthicacloaihinh\bin\Debug\net7.0\hienthicacloaihinh.pdb
+C:\Users\ASUS\Desktop\hienthicacloaihinh\obj\Debug\net7.0\hienthicacloaihinh.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hienthicacloaihinh\obj\Debug\net7.0\hienthicacloaihinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\hienthicacloaihinh\obj\Debug\net7.0\hienthicacloaihinh.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\hienthicacloaihinh\obj\Debug\net7.0\hienthicacloaihinh.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\hienthicacloaihinh\obj\Debug\net7.0\hienthicacloaihinh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hienthicacloaihinh\obj\Debug\net7.0\hienthicacloaihinh.dll
+C:\Users\ASUS\Desktop\hienthicacloaihinh\obj\Debug\net7.0\refint\hienthicacloaihinh.dll
+C:\Users\ASUS\Desktop\hienthicacloaihinh\obj\Debug\net7.0\hienthicacloaihinh.pdb
+C:\Users\ASUS\Desktop\hienthicacloaihinh\obj\Debug\net7.0\hienthicacloaihinh.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\hienthicacloaihinh\obj\Debug\net7.0\ref\hienthicacloaihinh.dll
